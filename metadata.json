@@ -1,0 +1,6 @@
+{
+  "name": "پالکس",
+  "description": "سیستم مدیریت مشتریان (CRM) پیشرفته با تحلیل داده‌های فروش و گزارش‌گیری پیشرفته برای کارگاه‌ها و فروشگاه‌ها با رابط کاربری مدرن و مینیمال",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
